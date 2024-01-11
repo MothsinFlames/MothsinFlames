@@ -1,4 +1,4 @@
-<h2> Hey there!👋 I'm Yu Jin (personal web: https://yjiangcm.github.io/).</h2>
+<h2> Hey there!👋 .</h2>
 
 <br/>
 
