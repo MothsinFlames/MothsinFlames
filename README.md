@@ -13,7 +13,7 @@
 
 ## Hi there 👋,
 
-### I'm Moths in Flames, I am a community guy who loves tech and Deep Learning.
+### I'm Moths in Flames, I am a community guy who loves tech as Reinforcement Learning, LLM, and Deep Learning.
 -------
   
 ## 🧐 About
